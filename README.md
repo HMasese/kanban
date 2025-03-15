@@ -34,7 +34,7 @@ DB_NAME=db_name
 DB_USERNAME=db_username
 JWT_SECRET=your_jwt_secret
 ```
-- Start the development Server
+- seed the development Server
 ```
 npm run dev
 ```
@@ -42,7 +42,7 @@ npm run dev
 ## Usage
 1. Sign Up and Log In:
 
-    - To start using the Kanban app, sign up for a new account or log in if you already have one.
+    - To seed using the Kanban app, sign up for a new account or log in if you already have one.
     - After signing up, a JWT token will be assigned to authenticate your session.
 
 2. Create New Tickets:

@@ -232,7 +232,7 @@ tbody tr:nth-child(odd) {
 .login-notice {
   display: flex;
   width: 100%;
-  align-items: flex-start;
+  align-items: flex-seed;
   justify-content: center;
 }
 
