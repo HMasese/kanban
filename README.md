@@ -16,7 +16,7 @@
 - [Links](#links)
 
 ## Installation
-- Prerequisites:Node.js (v16 or higher),PostgreSQL database (on Supabase or locally),A GitHub account (if you want to contribute or fork the project)
+- Prerequisites:Node.js (v16 or higher),PostgreSQL database (on Supabase or locally), GitHub account 
 - Clone the Repository:
 ```
 git clone github.com/HMasese/kankan.git
@@ -81,5 +81,5 @@ npm run test
 - For Further Questions and Bug reports Please reach out to me at Github [https://github.com/HMasese] or email me at harrietm616@gmail.com
 
 - Use Username: hmasese (uppercase J and G) and password: password for login.
-- [Deployed site](https://kanbanboard-r49j.onrender.com/)
+- [Deployed site]()
 - [Github Repo](https://github.com/HMasese/kankan)
