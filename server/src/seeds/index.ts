@@ -8,10 +8,10 @@ const seedAll = async (): Promise<void> => {
     console.log('\n----- DATABASE SYNCED -----\n');
     
     await seedUsers();
-    console.log('\n----- USERS SEEDED -----\n');
+    console.log('\n----- USERS seedED -----\n');
     
     await seedTickets();
-    console.log('\n----- TICKETS SEEDED -----\n');
+    console.log('\n----- TICKETS seedED -----\n');
     
     process.exit(0);
   } catch (error) {

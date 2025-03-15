@@ -20,7 +20,6 @@
 - Clone the Repository:
 ```
 git clone github.com/HMasese/kankan.git
-cd Kanban
 ```
 - Install Dependencies
 ```
@@ -80,5 +79,11 @@ npm run test
 ## Questions
 - For Further Questions and Bug reports Please reach out to me at Github [https://github.com/HMasese] or email me at harrietm616@gmail.com
 
+<<<<<<< HEAD
 - [Deployed site]()
 - [Github Repo](https://github.com/HMasese/kankan)
+=======
+- Use Username: hmasese (uppercase J and G) and password: password for login.
+- [Deployed site]
+- [Github Repo](https://github.com/HMasese/kankan)
+>>>>>>> c892e18b976b499e504ebf7c2bdc1e94aba69785
