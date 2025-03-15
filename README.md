@@ -19,7 +19,7 @@
 - Prerequisites:Node.js (v16 or higher),PostgreSQL database (on Supabase or locally),A GitHub account (if you want to contribute or fork the project)
 - Clone the Repository:
 ```
-git clone github.com/HMasese/kankan.git
+git clone github.com/HMasese/kanban.git
 ```
 - Install Dependencies
 ```
@@ -60,7 +60,7 @@ npm run dev
     - You can edit or delete tickets as needed by clicking on them.
 
 ## Credits
-TA kayvon, phil, aley, dylan, nicole
+TA kayvon, phil, aley, dylan
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
@@ -81,4 +81,4 @@ npm run test
 
 - Use Username: hmasese (uppercase J and G) and password: password for login.
 - [Deployed site]
-- [Github Repo](https://github.com/HMasese/kankan)
+- [Github Repo](https://github.com/HMasese/kanban)
