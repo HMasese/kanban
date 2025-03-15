@@ -1,4 +1,4 @@
-# Kankan App
+# Kanban App
 
 ## Description
 
@@ -16,7 +16,7 @@
 - [Links](#links)
 
 ## Installation
-- Prerequisites:Node.js (v16 or higher),PostgreSQL database (on Supabase or locally), GitHub account 
+- Prerequisites:Node.js (v16 or higher),PostgreSQL database (on Supabase or locally),A GitHub account (if you want to contribute or fork the project)
 - Clone the Repository:
 ```
 git clone github.com/HMasese/kankan.git
@@ -42,7 +42,7 @@ npm run dev
 ## Usage
 1. Sign Up and Log In:
 
-    - To start using the Kankan app, sign up for a new account or log in if you already have one.
+    - To start using the Kanban app, sign up for a new account or log in if you already have one.
     - After signing up, a JWT token will be assigned to authenticate your session.
 
 2. Create New Tickets:
@@ -79,11 +79,6 @@ npm run test
 ## Questions
 - For Further Questions and Bug reports Please reach out to me at Github [https://github.com/HMasese] or email me at harrietm616@gmail.com
 
-<<<<<<< HEAD
-- [Deployed site]()
-- [Github Repo](https://github.com/HMasese/kankan)
-=======
 - Use Username: hmasese (uppercase J and G) and password: password for login.
 - [Deployed site]
 - [Github Repo](https://github.com/HMasese/kankan)
->>>>>>> c892e18b976b499e504ebf7c2bdc1e94aba69785
