@@ -79,6 +79,5 @@ npm run test
 ## Questions
 - For Further Questions and Bug reports Please reach out to me at Github [https://github.com/HMasese] or email me at harrietm616@gmail.com
 
-- Use Username: hmasese (uppercase J and G) and password: password for login.
 - [Deployed site]
 - [Github Repo](https://github.com/HMasese/kanban)
