@@ -43,7 +43,7 @@ npm run dev
 ## Usage
 1. Sign Up and Log In:
 
-    - To start using the Kanban app, sign up for a new account or log in if you already have one.
+    - To start using the Kankan app, sign up for a new account or log in if you already have one.
     - After signing up, a JWT token will be assigned to authenticate your session.
 
 2. Create New Tickets:
@@ -80,6 +80,5 @@ npm run test
 ## Questions
 - For Further Questions and Bug reports Please reach out to me at Github [https://github.com/HMasese] or email me at harrietm616@gmail.com
 
-- Use Username: hmasese (uppercase J and G) and password: password for login.
 - [Deployed site]()
 - [Github Repo](https://github.com/HMasese/kankan)
